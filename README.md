@@ -1,13 +1,16 @@
 ### Oii, eu sou a Letícia 👾
 
+Estudante de Desenvolvimento Web e Engenharia de Computação, com foco em adquirir conhecimentos sólidos em programação, arquitetura de sistemas e tecnologias web modernas.
 
+</div>
+<div style="display: inline_block"><br>
+<img align="right" alt="Lelucis-pic" height="150" style="border-radius:50px;" src="https://github.com/user-attachments/assets/c5a6dbd4-3b5a-4ba5-8d98-9baa5d62cfa7" /> 
+</div>
+ 
 <div align="center">
   <a href="https://github.com/Lelucis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lelucis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelucis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Lelucis-pic" height="150" style="border-radius:50px;" src="[[https://picrew.me/shareImg/org/202205/338224_dHde06hi.png](https://ibb.co/0VRGXz8b)](https://ibb.co/0VRGXz8b)">
 </div>
   
    ##
