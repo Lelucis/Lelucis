@@ -6,12 +6,6 @@ Estudante de Desenvolvimento Web e Engenharia de Software, com foco em adquirir 
 <div style="display: inline_block"><br>
 <img align="right" alt="Lelucis-pic" height="150" style="border-radius:50px;" src="https://github.com/user-attachments/assets/c5a6dbd4-3b5a-4ba5-8d98-9baa5d62cfa7" /> 
 </div>
- 
-<div align="center">
-  <a href="https://github.com/Lelucis">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lelucis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelucis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
    ##
  
@@ -23,16 +17,6 @@ Estudante de Desenvolvimento Web e Engenharia de Software, com foco em adquirir 
 </div>
 
 ## 
-
-### 📖 Estudadando atualmente:
- <div style="display: inline_block"><br>
-  <img align="center" alt="leticia-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="leticia-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="leticia-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-
-</div>
-
-##
 
 <div>
 <picture>
