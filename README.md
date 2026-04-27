@@ -1,6 +1,6 @@
 ### 👾 Oii, eu sou a Letícia 
 
-Estudante de Desenvolvimento Web e Engenharia de Computação, com foco em adquirir conhecimentos sólidos em programação, arquitetura de sistemas e tecnologias web modernas.
+Estudante de Desenvolvimento Web e Engenharia de Software, com foco em adquirir conhecimentos sólidos em programação, arquitetura de sistemas e tecnologias web modernas.
 
 </div>
 <div style="display: inline_block"><br>
